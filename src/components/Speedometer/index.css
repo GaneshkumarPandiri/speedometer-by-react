@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.image-style {
+  width: 700px;
+}
+.bg-container {
+  background-color: #07080c;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+.button1 {
+  margin: 20px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  height: 40px;
+  padding: 10px;
+  border-radius: 15px;
+}
+.button2 {
+  margin: 20px;
+  background-color: transparent;
+  color: #ffffff;
+  height: 40px;
+  padding: 10px;
+  border-radius: 15px;
+  border-color: #ffffff;
+}
